@@ -9,7 +9,8 @@ package.name = writetest
 package.domain = org.test
 
 # (str) Source code where the main.py live
-source.dir = /home/pat/source
+# source.dir = /home/pat/source
+source.dir = .
 
 # (list) Source files to include (let empty to include all the files)
 source.include_exts = py,png,jpg,kv,atlas
